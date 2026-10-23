@@ -35,7 +35,7 @@
 |---|---|
 | [**Codemit**](https://codemit.kr) | 상금 공모전 플랫폼 · AI 채점 강의실 |
 | [**Daypage**](https://daypage.sandcorp.co.kr) | 링크 하나로 함께 쓰는 하루 노트 |
-| [**AI Trend News**](https://news.sandcorp.co.kr) | AI 편집자가 만드는 한국어 뉴스 |
+| [**Foresight(포사이트)**](https://news.sandcorp.co.kr) | AI 편집자가 만드는 한국어 뉴스와 전망 |
 | [**Sandcorp 플랫폼**](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=org) | 포트폴리오·제안서 시스템과 통합 로그인 |
 
 ### 이런 일을 합니다
