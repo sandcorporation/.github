@@ -4,7 +4,7 @@
 
 ## Sandcorp
 
-**기획부터 운영까지, 한 사람이 끝까지 책임지는 1인 개발사**
+**직접 만든 서비스 4개를 지금도 운영합니다. 그 방식 그대로 당신의 제품을 만듭니다.**
 
 [웹사이트](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=org) · [포트폴리오](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=org) · [문의하기](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=org)
 
@@ -24,7 +24,7 @@
 
 - **운영 오류 자동 수리** — 오류가 수집되면 에이전트가 재현 테스트부터 만들고 고친 뒤 PR을 올립니다. CI가 통과해 병합돼야 비로소 해결로 처리합니다. (Codemit)
 - **사용자 건의 자동 반영** — 건의가 들어오면 에이전트가 구현하고, 사람이 승인하면 배포·공지까지 끝냅니다. (Daypage)
-- **콘텐츠 편집** — 매일 수집한 뉴스를 에이전트가 묶고 요약해 게시합니다. (AI Trend News)
+- **콘텐츠 편집** — 매일 수집한 뉴스를 에이전트가 묶고 요약해 게시합니다. (Foresight)
 - **MCP로 연결된 관리** — 서비스마다 MCP 서버를 두어, 관리 작업을 Claude 같은 AI 도구에서 바로 합니다. 이 사이트의 포트폴리오도 그렇게 작성됐습니다.
 
 다만 **문은 사람이 엽니다.** 재현되지 않은 수정은 내보내지 않고, 설계 결정이 필요한 일은 사람에게 넘기며, 사용자 입력은 지시가 아닌 데이터로만 다루고, 에이전트에는 필요한 만큼의 권한만 줍니다. 고객 프로젝트에도 같은 운영 자동화를 함께 구축해 드립니다.
