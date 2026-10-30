@@ -4,7 +4,7 @@
 
 ## Sandcorp
 
-**직접 만든 서비스들을 지금도 운영합니다. 그 방식 그대로 당신의 제품을 만듭니다.**
+**출시는 시작일 뿐입니다. 그다음까지 함께 운영합니다.**
 
 [웹사이트](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=org) · [포트폴리오](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=org) · [문의하기](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=org)
 
